@@ -19,3 +19,5 @@ Salam,
 Mustofa
 (MET.000.000703.2016)  
 Asesor LSP Inixindo"
+
+(Note : Dari segi tampilan masih kacau, walaupun sudah responsive)
